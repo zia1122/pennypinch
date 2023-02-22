@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770824816504",
+    "project_id": "pennypinch-99bd5",
+    "storage_bucket": "pennypinch-99bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770824816504:android:9196ebd522f8d186d92a8d",
+        "android_client_info": {
+          "package_name": "com.alsiddiquetech.pennypinch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770824816504-quhg1tuk3e660g3qpc5kkesckq3fqevb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alsiddiquetech.pennypinch",
+            "certificate_hash": "b58942fba7f400be3b6ce699282d0cf8db528928"
+          }
+        },
+        {
+          "client_id": "770824816504-lnu5enonnecgrv3fju5im1vcfv1deh4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4NwwqjfKeHtuH-ULhuNgf0TrMuHSrS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770824816504-lnu5enonnecgrv3fju5im1vcfv1deh4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

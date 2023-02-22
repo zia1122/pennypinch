@@ -12,13 +12,10 @@
         android:theme="@style/Theme.PennyPinch"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActivity"
+            android:name=".DashboardActivity"
             android:exported="false" />
         <activity
-            android:name=".RegisterActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,6 +23,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Registration.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration.RegisterActivity"
+            android:exported="false"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
